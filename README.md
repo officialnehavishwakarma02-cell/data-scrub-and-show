@@ -1,4 +1,4 @@
-# Amazon Sales Analysis:Data Scrub and show<img width="1064" height="705" alt="total_sales_category" src="https://github.com/user-attachments/assets/691a2447-04de-4612-888c-8162bb0d673a" />
+# Amazon Sales Analysis:Data Scrub and show
 
 This project analyzes sales performance and shipping efficiency for a retail dataset.I transformed raw trasactional data into actionable business insights regarding profitability and customer behaviour
 
