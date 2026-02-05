@@ -4,8 +4,10 @@ This project analyzes sales performance and shipping efficiency for a retail dat
 
 ## Tech Stack
 
-* Language:Python 3.14
-* Libraries:Pandas(Data Manipulation),Matplotlib/Seaborn(visualizations)
+* Language:Python 3.10
+* Libraries:
+* Pandas(Data Manipulation) and cleaning
+* Matplotlib/Seaborn(visualizations)
 * Tools:Jupyter Notebook,VS code
   
 ## Data Cleaning Process
