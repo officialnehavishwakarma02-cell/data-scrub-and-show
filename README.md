@@ -19,3 +19,5 @@ This project analyzes sales performance and shipping efficiency for a retail dat
 * Deduplication:Identified and removed duplicate rows to ensure each transaction is unique and to prevent skewed analysis results
 
   
+
+  
